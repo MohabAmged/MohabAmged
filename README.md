@@ -15,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/mohab-amged-b3b353232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohab amged" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mohab.amged.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohab amged" height="30" width="40" /></a>
 </p>
 

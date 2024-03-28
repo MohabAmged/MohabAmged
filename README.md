@@ -1,15 +1,15 @@
 <h1 align="center">Hi , I'm Mohab Amged Ahmed</h1>
-<h3 align="center">Passionate hardworking Electronics student who knows about Embedded Systems , Looking For opportunities and Internships to Craft my Skills and Knowledge</h3>
+<h3 align="center">Passionate hardworking Electronics student who knows about Embedded Systems and Digital Electronics , Looking For opportunities and Internships to Craft my Skills and Knowledge</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohabamged&label=Profile%20views&color=0e75b6&style=flat" alt="mohabamged" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohabamged" alt="mohabamged" /></a> </p>
 
-- 🌱 I’m currently learning **Digital Electronics design**
+- 🌱 I’m currently learning **Digital Electronics design and verification**
 
 - 🤝 I’m looking for help with **Electronics**
 
-- 💬 Ask me about **Embedded systems**
+- 💬 Ask me about **Embedded systems and Digital Electronics**
 
 - 📫 How to reach me **mohabamged6@gmail.com**
 
